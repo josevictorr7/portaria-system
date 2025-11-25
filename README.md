@@ -1,0 +1,2 @@
+# portaria-system
+Sistema de gestão inteligente para portarias, desenvolvido com Java + Spring Boot no back-end e React com JavaScript no front-end. O projeto permite organizar entradas, saídas, visitantes e autorizações de forma moderna, segura e eficiente. A aplicação integra uma API robusta em Spring Boot com uma interface React rápida e intuitiva, oferecendo uma solução completa para controle e registro em portarias.
