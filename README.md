@@ -17,24 +17,24 @@ No front-end, o projeto usa **React**, **JavaScript** e **Vite**, garantindo **a
 
 ## **💻 Tecnologias e Habilidades Usadas**
 
-[![Tecnologias](https://skillicons.dev/icons?i=java,spring,react,javascript,tailwind,postman)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=java,spring,react,javascript,tailwind,postman,postgres)](https://skillicons.dev)
 
 **BACK-END**
 
-**Estruturação de APIs Rest.** <br>
-**Spring Web, Spring Security, JWT Auth, Spring Data JPA.** <br> 
-**Criação de entidades, DTOs, services.** <br>
-**Autenticação e login seguro.** <br>
-**Mapeamento com PostgreSQL, usando JPA/Hibernate.** <br>
-**Configuração de ambientes e uso de ferramentas como Postman e Insomnia** <br>
-**Integração com PostgreSQL** <br>
-**Gerencimento de dependências com o Meaven** <br>
+**• Estruturação de APIs Rest.** <br>
+**• Spring Web, Spring Security, JWT Auth, Spring Data JPA.** <br> 
+**• Criação de entidades, DTOs, services.** <br>
+**• Autenticação e login seguro.** <br>
+**• Mapeamento com PostgreSQL, usando JPA/Hibernate.** <br>
+**• Configuração de ambientes e uso de ferramentas como Postman e Insomnia.** <br>
+**• Integração com PostgreSQL.** <br>
+**• Gerencimento de dependências com o Meaven.** <br>
 
 **FRONT-END**
 
-**Consumo de APIs Rest com Axios** <br>
-**Uso de hooks como UseState e UseEffect** <br>
-**Integração do front-end com o back-end** <br>
+**• Consumo de APIs Rest com Axios.** <br>
+**• Uso de hooks como UseState e UseEffect.** <br>
+**• Integração do front-end com o back-end.** <br>
 
 ## **⚙️ Funcionalidades**
 
