@@ -26,7 +26,10 @@ function AddVehicle({ show, onClose, onAdd }) {
   };
 
   return (
-    <div className="w-full h-full fixed flex items-center justify-center bg-black/40" onClick={onClose}>
+    <div
+      className="w-full h-full fixed flex items-center justify-center bg-black/40"
+      onClick={onClose}
+    >
       <div
         className="fixed w-[600px] h-[600px] rounded-2xl shadow bg-white top-auto overflow-auto"
         onClick={(e) => e.stopPropagation()}
@@ -46,7 +49,11 @@ function AddVehicle({ show, onClose, onAdd }) {
                 strokeWidth={2}
                 viewBox="0 0 24 24"
               >
-                <path strokeLinecap="round" strokeLinejoin="round" d="M4 16v4h16v-4M12 4v12m0 0l-4-4m4 4l4-4" />
+                <path
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  d="M4 16v4h16v-4M12 4v12m0 0l-4-4m4 4l4-4"
+                />
               </svg>
               <p className="text-gray-600 text-center font-medium">
                 Clique ou arraste a imagem do veículo aqui
