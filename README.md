@@ -10,8 +10,6 @@ No front-end, o projeto usa **React**, **JavaScript** e **Vite**, garantindo **a
 
 <img width="1365" height="650" alt="image" src="https://github.com/user-attachments/assets/ed12476a-e70d-48b7-826c-1556b85a7cc3" />
 
-<img width="1365" height="653" alt="image" src="https://github.com/user-attachments/assets/dabb4484-4d47-4e0e-88c0-0ff8d2be311e" />
-
 **Você pode acompanhar posts sobre o desenvolvimento do projeto acessando o link abaixo:** <br>
 🔗 - [Clique para acessar meu LinkedIn](https://www.linkedin.com/in/josevictorr7/)
 
@@ -19,7 +17,7 @@ No front-end, o projeto usa **React**, **JavaScript** e **Vite**, garantindo **a
 
 ## **💻 Tecnologias e Habilidades Usadas**
 
-[![Tecnologias](https://skillicons.dev/icons?i=java,spring,react,javascript,tailwind)](https://skillicons.dev)
+[![Tecnologias](https://skillicons.dev/icons?i=java,spring,react,javascript,tailwind,postman)](https://skillicons.dev)
 
 **BACK-END**
 
@@ -42,11 +40,11 @@ No front-end, o projeto usa **React**, **JavaScript** e **Vite**, garantindo **a
 
 ### ✅ Já implementadas
 
-**Dashboard** centralizado para acompanhamento geral das operações.
-**Registro de entradas e saídas**, garantindo controle organizado de acessos.
-**CRUD de Funcionários**, incluindo dados pessoais, informações internas e veículos associados.
-**CRUD de Visitantes**, com cadastro, autorização e histórico de acessos.
-**Relatórios de frequência**, com integração simplificada ao setor de RH.
+**Dashboard** centralizado para acompanhamento geral das operações. <br>
+**Registro de entradas e saídas**, garantindo controle organizado de acessos. <br>
+**CRUD de Funcionários**, incluindo dados pessoais, informações internas e veículos associados. <br>
+**CRUD de Visitantes**, com cadastro, autorização e histórico de acessos. <br>
+**Relatórios de frequência**, com integração simplificada ao setor de RH. <br>
 **Gestão de cestas básicas**, permitindo controle e registro das entregas.
 
 ### ⌛ Próximas atualiações 
@@ -54,9 +52,9 @@ No front-end, o projeto usa **React**, **JavaScript** e **Vite**, garantindo **a
 O foco principal do sistema, é ter um assistente de Inteligência Artificial para ajudar o trabalhador, por isso o nome
 PortarIA. E essas devem ser nossas futuras tasks.
 
-**Assistente de IA** para ajudar o porteiro em tarefas rotineiras.
-**Sugestões automáticas** com base no histórico de acessos.
-**Avisos inteligentes** ao detectar informações incorretas ou suspeitas.
+**Assistente de IA** para ajudar o porteiro em tarefas rotineiras. <br>
+**Sugestões automáticas** com base no histórico de acessos. <br>
+**Avisos inteligentes** ao detectar informações incorretas ou suspeitas. <br>
 **Preenchimento automático** de dados repetidos.
 
 ---
